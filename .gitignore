@@ -1,0 +1,4 @@
+
+# Ignore *.log files
+access.log
+error.log
